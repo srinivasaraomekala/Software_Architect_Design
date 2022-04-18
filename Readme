@@ -1,15 +1,24 @@
 # Django app
-# Hello World
+# Hello World django app
 
 Created app using Django framework to display Hello World
 
-Clone Repository from below command
+Clone a Repository from below command
 git clone https://github.com/srinivasaraomekala/Software_Architect_Design.git
 
+Start the Server - python3 -m venv app/venv
+
+
 Run the server by using below command
-python manage.py runserver
+From the cloning directory need to navigate to lab_5 folder
+1) cd Software_Architect_Design
+2) cd app
+3) cd lab_5
+Run the Server:
+5) python manage.py runserver
 The above command starts the server
 
+Open Browser:
 access the link from the browser https://127.0.0.1:8000/lab5
 
 It will display "Hello World" message
