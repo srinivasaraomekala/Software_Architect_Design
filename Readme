@@ -1,2 +1,15 @@
 # Django app
 # Hello World
+
+Created app using Django framework to display Hello World
+
+Clone Repository from below command
+git clone https://github.com/srinivasaraomekala/Software_Architect_Design.git
+
+Run the server by using belwo command
+python manage.py runserver
+The above command starts the server
+
+access the link from the browser https://127.0.0.1:8000/lab5
+
+It will display "Hello World" message
