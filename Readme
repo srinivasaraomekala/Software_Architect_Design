@@ -6,7 +6,7 @@ Created app using Django framework to display Hello World
 Clone Repository from below command
 git clone https://github.com/srinivasaraomekala/Software_Architect_Design.git
 
-Run the server by using belwo command
+Run the server by using below command
 python manage.py runserver
 The above command starts the server
 
